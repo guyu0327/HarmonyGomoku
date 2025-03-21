@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "title_text_font_size",
+      "value": "60fp"
+    },
+    {
+      "name": "author_text_font_size",
+      "value": "16fp"
+    }
+  ]
+}

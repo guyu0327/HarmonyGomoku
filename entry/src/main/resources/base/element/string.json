@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "index_title",
+      "value": "五子棋"
+    },
+    {
+      "name": "start_button_text",
+      "value": "游戏开始"
+    },
+    {
+      "name": "author",
+      "value": "@晓时谷雨"
+    },
+    {
+      "name": "index_title_font_name",
+      "value": "SThuawenxingkai"
+    },
+    {
+      "name": "index_title_font_src",
+      "value": "/fonts/SThuawenxingkai.TTF"
+    }
+  ]
+}
